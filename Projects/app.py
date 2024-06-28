@@ -29,7 +29,7 @@ def chat_with_gpt(message):
 
     # OpenAi key and SerpApi Key
     # SerpApi key for the GoogleSearch Results
-    os.environ['OPENAI_API_KEY'] = 'sk-proj-liVEnIfR1OlCf3v3SpnqT3BlbkFJGD3Q3H5llO9Br7uLF37k'
+    os.environ['OPENAI_API_KEY'] = 'sk-proj-1sckHvb7fUaMopa6oS3pT3BlbkFJTzsJA1Sb3y9cPrxPopmy'
     os.environ['SERPAPI_API_KEY'] = 'fdcbacc41ba60ba1c5665b327713c6a89fc36e6c8a71828c6726457bba34961e'
 
     # Load tools
