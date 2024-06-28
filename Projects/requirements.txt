@@ -1,0 +1,6 @@
+streamlit
+openai
+langchain
+warnings
+re
+os
