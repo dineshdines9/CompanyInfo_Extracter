@@ -4,3 +4,8 @@ langchain
 warnings
 re
 os
+langchain_community
+google-search-results
+wikipedia
+lxml
+bs4
